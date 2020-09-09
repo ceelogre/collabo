@@ -13,3 +13,8 @@ h2, h3 {
     text-transform: capitalize;
     display: block;
 }
+
+h4{
+    color: red;
+    text-transform: uppercase;
+}
