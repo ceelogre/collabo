@@ -18,3 +18,8 @@ h5 {
   color: red;
   padding: 1rem;
 }
+
+h4{
+    color: red;
+    text-transform: uppercase;
+} 
